@@ -1,6 +1,6 @@
 # Customs Bot
 
-A feature-rich Discord bot designed for managing gaming tournaments in a university server. This project demonstrates advanced Python programming, database integration, and Discord API usage, making it an excellent addition to any developer's portfolio.
+A feature-rich Discord bot designed for managing gaming tournaments in a university server. This project demonstrates advanced Python programming, database integration, and Discord API usage.
 
 ## Features
 
@@ -41,7 +41,7 @@ A feature-rich Discord bot designed for managing gaming tournaments in a univers
 - Displaying leaderboards for players and teams
 - Admins managing tournaments and resolving disputes
 
-## Why This Project Stands Out
+## What My Project Showcases
 
 - **Full-Stack Solution**: Combines backend logic, persistent storage, and real-time Discord interaction.
 - **Resume-Ready**: Demonstrates advanced Python, database, and API skills.
